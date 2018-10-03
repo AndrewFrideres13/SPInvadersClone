@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.Form1.resources
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\bin\Debug\SINDEMO.exe.config
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\bin\Debug\SINDEMO.exe
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\bin\Debug\SINDEMO.pdb
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.Properties.Resources.resources
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.exe
+C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.pdb
