@@ -8,3 +8,13 @@ C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.Properties.Resou
 C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.csproj.CoreCompileInputs.cache
 C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.exe
 C:\Users\Student\source\repos\SINDEMO\SINDEMO\obj\Debug\SINDEMO.pdb
+D:\Student Data\Desktop\SINDEMO\SINDEMO\bin\Debug\SINDEMO.exe.config
+D:\Student Data\Desktop\SINDEMO\SINDEMO\bin\Debug\SINDEMO.exe
+D:\Student Data\Desktop\SINDEMO\SINDEMO\bin\Debug\SINDEMO.pdb
+D:\Student Data\Desktop\SINDEMO\SINDEMO\obj\Debug\SINDEMO.csprojAssemblyReference.cache
+D:\Student Data\Desktop\SINDEMO\SINDEMO\obj\Debug\SINDEMO.Properties.Resources.resources
+D:\Student Data\Desktop\SINDEMO\SINDEMO\obj\Debug\SINDEMO.csproj.GenerateResource.cache
+D:\Student Data\Desktop\SINDEMO\SINDEMO\obj\Debug\SINDEMO.csproj.CoreCompileInputs.cache
+D:\Student Data\Desktop\SINDEMO\SINDEMO\obj\Debug\SINDEMO.exe
+D:\Student Data\Desktop\SINDEMO\SINDEMO\obj\Debug\SINDEMO.pdb
+D:\Student Data\Desktop\SINDEMO\SINDEMO\obj\Debug\SINDEMO.GForm.resources
